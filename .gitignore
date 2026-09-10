@@ -7,4 +7,6 @@ data/*.db
 data/*.db-*
 coverage/
 dist/
+client/dist/
 build/
+scratch/
